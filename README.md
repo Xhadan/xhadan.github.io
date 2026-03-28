@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadan</h1>
 <h3 align="center">A passionate AI developer/researcher from India</h3>
 
-- 🔭 I’m currently working on [LLM_ENGINEERING](https://github.com/Xhadan/llm_engineering)
+- 🔭 I’m currently working on [AI & LLMs](https://github.com/Xhadan/llm_engineering)
 
 - 🌱 I’m currently learning **NLP, RAG, LLM, AI, Fine Tuning Models, DSA, System Design, Cloud Computing**
 
