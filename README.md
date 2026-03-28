@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xhadan](https://github.com/Xhadan)
 
-- 💬 Ask me about **Cloud**
+- 💬 Ask me about **Cloud Computing, esp AWS Cloud**
 
 - 📫 How to reach me **shadanmailbox@gmail.com**
 
